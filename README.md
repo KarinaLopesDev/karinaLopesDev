@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando como Analista de Dados
 - 🌱 Estou estudando para me tornar Engenheira de Dados. **Em Breve**.
 - 📫 Você pode entrar em contato comigo através do Linkedin contido na bio ou e-mail: karina2014ml@outlook.com
-- ⚡ Sou muito curiosa gosto de entender como as coisas funcionam, e com muita vontade em aprender
+- ⚡ Sou muito curiosa, gosto de entender como as coisas funcionam e com muita vontade de aprender
 - 👩🏽‍🦱Ela/Dela
 
 

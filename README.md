@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 
 - 👩🏽‍💻Meu nome é Karina, sou apaixonada por tecnologia, dados e entusiasta em Dev
-- 🏛️ Pós graduada em Business Intelligence, big data e analytics - Ciencia de dados, Graduada em Gestão da Tecnologia da informação
+- 🏛️ Pós graduada em Business Intelligence, big data e analytics - Ciencia de dados|Graduada em Gestão da Tecnologia da informação
 - 🔭 Atualmente estou trabalhando como Analista de Dados
 - 🌱 Estou estudando para me tornar Engenheira de Dados. **Em Breve**.
 - 📫 Você pode entrar em contato comigo através do Linkedin contido na bio ou e-mail: karina2014ml@outlook.com
